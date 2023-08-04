@@ -1,0 +1,28 @@
+/* app global css */
+
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+}
+
+.logo {
+  text-decoration: none;
+}
+
+.q-page-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+.q-page {
+  padding-top: 50px;
+}
+
+.q-border-small {
+  border: 1px solid black;
+}
+
+.q-border-collapse-col {
+  border-collapse: collapse;
+}
