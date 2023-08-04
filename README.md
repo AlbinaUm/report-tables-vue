@@ -1,3 +1,8 @@
+### Implementation of this task through React + Ts
+https://github.com/AlbinaUm/report-tables-spa
+
+----
+
 # Quasar App (report-tabled-vue)
 
 A Quasar Project
